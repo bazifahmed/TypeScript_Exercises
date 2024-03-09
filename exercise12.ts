@@ -1,3 +1,4 @@
+//Exercise 12: Greetings
 let names = ["Ashhadullah", "Aqib", "Hashim"];
 
 for (let i = 0; i < names.length; i++)
